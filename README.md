@@ -1,4 +1,14 @@
-## Hi there 👋
+# Dustin Greenlee
+
+I am a Security Analyst at Northwest Missouri State University. I have a degree in Cyber Security and working on my masters in Applied Computer Science.
+
+Through my classes I have created several repositories for assignments.
+
+My proudest repository is where I and three others created a working game in godot in three months.
+
+I am currently working on my own game where one day I may get to publish it.
+
+I enjoy board games, video games, disc golf, and spending time with my family.
 
 <!--
 **dgreenlee2015/dgreenlee2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
